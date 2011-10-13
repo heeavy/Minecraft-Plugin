@@ -1,0 +1,9 @@
+name: Boom
+main: heavy.minecraft.Boom
+version: 0.1
+description: >
+             It booms!
+commands:
+  boom:
+    description: booms
+    usage: /<command>
